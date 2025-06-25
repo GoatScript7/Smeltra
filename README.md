@@ -6,7 +6,7 @@
 
 ---
 
-## 🧩 Features
+## 🦀 Features
 
 - 🔥 **Glow ESP** – Wallhack using external memory glow
 - 🎯 **Triggerbot** – Fires automatically when aiming at an enemy (hold key)
@@ -30,11 +30,29 @@
 
 ---
 
+## 📥 Download
+
+👉 **[Download the cheat from the Releases tab](../../releases)**  
+The latest version of `smeltra.exe` will always be published there.
+
+---
+
 ## 📂 Files Included
 
 - `smeltra.exe` – Main executable
 
-No installation required. No config needed.
+No installation or configuration required.
+
+---
+
+## 💬 Community
+
+Join our community to get updates, help, and chat with other users:
+
+- 💬 **Discord**: [https://discord.gg/QqWg2z6QM4](https://discord.gg/QqWg2z6QM4)
+- 📱 **Telegram**: [https://t.me/+un_wfwq4m3diNGM0](https://t.me/+un_wfwq4m3diNGM0)
+
+> ⚠️ Respect the rules. No spam, no scams. This is a cheat dev/testing community.
 
 ---
 
@@ -65,6 +83,4 @@ This software is provided **for educational and research purposes only**.
 
 Smeltra is written in **Rust**, using low-level memory reading/writing techniques to remain external. It does **not inject** any DLLs and interacts with `cs2.exe` and `client.dll` externally.
 
-More features are planned. Feedback and suggestions welcome via private messages.
-
----
+More features are planned. Feedback and suggestions welcome via the community links above.
